@@ -8,9 +8,9 @@ ROADMAP
     - Links 
     - Meta tags and page infos
 
-2. Git introduction
-    - SSH and setup
-    - Clone and create repository
+2. Git introduction 
+    - SSH and setup OK
+    - Clone and create repository OK
     - Commits
     - Branch
 
@@ -19,9 +19,9 @@ ROADMAP
     - Simple CSS instructions
     - Block placement
     - Basic framework approach (tailwind)
-
+    
 4. JS introduction
     - linking script to an html file
     - JS Base 
 
-
+TOTALE: + ou - 1 Semaine
