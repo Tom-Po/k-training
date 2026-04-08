@@ -1,26 +1,37 @@
 body {
   background-color: #262937;
+  color: whitesmoke;
 }
-.icon { 
- width: 25px ; 
- height: 25px ;
- margin: 2px ;
+
+.icon {
+  width: 25px;
+  height: 25px;
+  margin: 2px;
 }
+
 form {
   display: flex;
   margin: 2px;
 }
-input {  
+
+input {
   margin: 2px;
 }
-button { 
+
+button {
   margin: 2px;
 }
-.image-group { 
- width : 400px ;
- height: 250px;
- margin: 40px;
- margin-left: 200px;
- display: flex;
- justify-content: center;
+
+.image-group {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.image-group img {
+  width: 600px;
+  height: 250px;
+  object-fit: cover;
 }
